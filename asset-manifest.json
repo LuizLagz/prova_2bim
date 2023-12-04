@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prova_2bim_lp2/static/css/main.241951ba.css",
+    "main.js": "/prova_2bim_lp2/static/js/main.f3ccad4f.js",
+    "index.html": "/prova_2bim_lp2/index.html",
+    "main.241951ba.css.map": "/prova_2bim_lp2/static/css/main.241951ba.css.map",
+    "main.f3ccad4f.js.map": "/prova_2bim_lp2/static/js/main.f3ccad4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.f3ccad4f.js"
+  ]
+}
